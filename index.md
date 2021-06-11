@@ -66,6 +66,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/work-book-cover-1.jpg
   - type: grid_section
     template: grid_section
     section_id: services
