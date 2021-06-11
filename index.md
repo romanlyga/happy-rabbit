@@ -36,6 +36,8 @@ sections:
         template: grid_item
         image: images/logo-2.svg
         image_alt: Logo 2
+        content: |
+          выфмфмфывмыфвмфывмыфвмфывм
       - type: grid_item
         template: grid_item
         image: images/logo-3.svg
